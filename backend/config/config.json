@@ -1,0 +1,27 @@
+{
+  "development": {
+    "username": "yassermar11",
+    "password": "Yassermar11",
+    "database": "oauth_demo",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "port": 5432,
+    "logging": false
+  },
+  "test": {
+    "username": "your_postgres_username",
+    "password": "your_postgres_password",
+    "database": "oauth_demo_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "logging": false
+  },
+  "production": {
+    "username": "your_postgres_username",
+    "password": "your_postgres_password",
+    "database": "oauth_demo_prod",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "loging": false
+  }
+}
